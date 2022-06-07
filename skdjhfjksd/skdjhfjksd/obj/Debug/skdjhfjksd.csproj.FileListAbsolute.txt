@@ -1,0 +1,11 @@
+C:\Users\darda\source\repos\skdjhfjksd\skdjhfjksd\bin\Debug\skdjhfjksd.exe.config
+C:\Users\darda\source\repos\skdjhfjksd\skdjhfjksd\bin\Debug\skdjhfjksd.exe
+C:\Users\darda\source\repos\skdjhfjksd\skdjhfjksd\bin\Debug\skdjhfjksd.pdb
+C:\Users\darda\source\repos\skdjhfjksd\skdjhfjksd\obj\Debug\skdjhfjksd.csproj.AssemblyReference.cache
+C:\Users\darda\source\repos\skdjhfjksd\skdjhfjksd\obj\Debug\skdjhfjksd.csproj.SuggestedBindingRedirects.cache
+C:\Users\darda\source\repos\skdjhfjksd\skdjhfjksd\obj\Debug\skdjhfjksd.Form1.resources
+C:\Users\darda\source\repos\skdjhfjksd\skdjhfjksd\obj\Debug\skdjhfjksd.Properties.Resources.resources
+C:\Users\darda\source\repos\skdjhfjksd\skdjhfjksd\obj\Debug\skdjhfjksd.csproj.GenerateResource.cache
+C:\Users\darda\source\repos\skdjhfjksd\skdjhfjksd\obj\Debug\skdjhfjksd.csproj.CoreCompileInputs.cache
+C:\Users\darda\source\repos\skdjhfjksd\skdjhfjksd\obj\Debug\skdjhfjksd.exe
+C:\Users\darda\source\repos\skdjhfjksd\skdjhfjksd\obj\Debug\skdjhfjksd.pdb
